@@ -1,0 +1,25 @@
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.vbproj.AssemblyReference.cache
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter_Example.Form1.resources
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.vbproj.GenerateResource.cache
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.AssemblyInfoInputs.cache
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.AssemblyInfo.vb
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.vbproj.CoreCompileInputs.cache
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\POSPrinter Example.exe
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\POSPrinter Example.deps.json
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\POSPrinter Example.runtimeconfig.json
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\POSPrinter Example.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\POSPrinter Example.pdb
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\zxing.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.vbproj.CopyComplete
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\refint\POSPrinter Example.dll
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.pdb
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\POSPrinter Example.genruntimeconfig.cache
+C:\Users\ilcon\Desktop\POSPrinter\POSPrinter Example\obj\Debug\net6.0-windows\ref\POSPrinter Example.dll
